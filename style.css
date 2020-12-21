@@ -1,0 +1,55 @@
+.h {background-color: #ff9933;
+color: #ffffff;
+padding-left : 20px;
+padding-bottom:10px;
+padding-top: 10px;
+padding-right: 10px;}
+
+.t {background-color: #ff9933;
+color: #ffffff;
+padding-left : 10px;
+padding-bottom:10px;
+padding-top: 10px;
+padding-right: 10px;}
+
+.f {background-color: #ff9933;
+color: #ffffff;
+padding-left : 10px;
+padding-bottom:10px;
+padding-top: 10px;
+padding-right: 10px;}
+
+.a {background-color: #ff9933;
+color: #ffffff;
+padding-left : 10px;
+padding-bottom:10px;
+padding-top: 10px;
+padding-right: 10px;}
+
+h2{background-color: #ff6600;
+color: #ffffff;
+padding-bottom: 10px;
+padding-top: 10px;}
+
+body{background-image: url(ส้ม.jpeg);}
+
+.sakhon{background-color: #ffff66;
+color: #ff3333;
+padding-bottom:10px;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 1250px;}
+
+dt{background-color: #ffcc33;
+color: #cc0000;
+padding-bottom: 10px;
+padding-top: 10px;}
+
+p{color: #990000;}
+
+footer{background-color: #ffcc66;
+color: #990000;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-left:10px;}
+
